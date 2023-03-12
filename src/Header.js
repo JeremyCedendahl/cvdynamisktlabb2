@@ -1,5 +1,6 @@
 import './App.css';
 import Jag from './Jag.png'
+import React from 'react';
 
  const Header = () => {
     function switchBackgroundColorEasterEgg(){
