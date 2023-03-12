@@ -13,7 +13,7 @@ const Data = () => {
 
   return (
     <div className='data'>
-      <div>
+
       <ul>
       <h1>Erfarenhet: </h1>
         {companies.map(item => (
@@ -25,8 +25,7 @@ const Data = () => {
     ))
     }
       </ul>
-      </div>
-      <div>
+  
       <ul>
         <h1>Utbildning: </h1>
         {educations.map(item => (
@@ -38,7 +37,6 @@ const Data = () => {
         ))}
       </ul>
       </div>
-        </div>
   
   );
 };
