@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cvdynamisktlabb2/static/css/main.488ff5ea.css",
+    "main.js": "/cvdynamisktlabb2/static/js/main.76a45141.js",
+    "static/media/Jag.png": "/cvdynamisktlabb2/static/media/Jag.1c21a5f5f99cd077e6e5.png",
+    "index.html": "/cvdynamisktlabb2/index.html",
+    "main.488ff5ea.css.map": "/cvdynamisktlabb2/static/css/main.488ff5ea.css.map",
+    "main.76a45141.js.map": "/cvdynamisktlabb2/static/js/main.76a45141.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.488ff5ea.css",
+    "static/js/main.76a45141.js"
+  ]
+}
